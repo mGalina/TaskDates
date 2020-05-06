@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Сроки задачи</string>
+    <string name="start_time">Дата-время старта задачи:</string>
+    <string name="end_time">Дата-время окончания задачи:</string>
+    <string name="error">Ошибка</string>
+    <string name="start">старт: </string>
+    <string name="end"> окончаниe: </string>
+</resources>
